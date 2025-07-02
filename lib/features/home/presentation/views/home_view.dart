@@ -7,9 +7,17 @@ class HomeView extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
-    return const Scaffold(
+    return Scaffold(
+      appBar: AppBar(
+        title: const Text(
+          'Toku',
+          style: TextStyle(
+              color: ColorsManager.kPrimaryColor, fontWeight: FontWeight.bold),
+        ),
+        backgroundColor: ColorsManager.kBrownColor,
+      ),
       backgroundColor: ColorsManager.kPrimaryColor,
-      body: HomeViewBody(),
+      body: const HomeViewBody(),
     );
   }
 }
