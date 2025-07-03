@@ -17,7 +17,7 @@ class HomeView extends StatelessWidget {
         backgroundColor: ColorsManager.kBrownColor,
       ),
       backgroundColor: ColorsManager.kPrimaryColor,
-      body: const HomeViewBody(),
+      body: HomeViewBody(),
     );
   }
 }
