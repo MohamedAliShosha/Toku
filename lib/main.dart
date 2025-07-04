@@ -1,14 +1,14 @@
 import 'package:flutter/material.dart';
-import 'package:toku2_app/features/home/presentation/views/home_view.dart';
+import 'package:toku2_app/core/utils/app_router.dart';
 
 class TokuApp extends StatelessWidget {
   const TokuApp({super.key});
 
   @override
   Widget build(BuildContext context) {
-    return const MaterialApp(
+    return MaterialApp.router(
+      routerConfig: AppRouter.router,
       debugShowCheckedModeBanner: false,
-      home: HomeView(),
     );
   }
 }
