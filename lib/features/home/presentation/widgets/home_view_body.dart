@@ -67,9 +67,7 @@ class GridViewItem extends StatelessWidget {
   Widget build(BuildContext context) {
     return GestureDetector(
       onTap: onTap,
-      child: AnimatedContainer(
-        duration: const Duration(seconds: 1),
-        curve: Curves.bounceInOut,
+      child: Container(
         color: color,
         child: Center(
           child: Text(
