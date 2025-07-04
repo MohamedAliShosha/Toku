@@ -49,7 +49,13 @@ flutter:
   uses-material-design: true
   # To add assets to your application, add an assets section, like this:
   assets:
-    - assets/Numbers_Images/
+    - assets/images/numbers/
+    - assets/images/family_members/
+    - assets/images/colors/
+    - assets/sounds/colors/
+    - assets/sounds/numbers/
+    - assets/sounds/family_members/
+    - assets/sounds/phrases/
 
     
     
