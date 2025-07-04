@@ -81,7 +81,6 @@ class FamilyMemberView extends StatelessWidget {
           return ListItem(
             color: const Color(0xff558B37),
             item: numbers[index],
-            itemType: '',
           );
         },
       ),

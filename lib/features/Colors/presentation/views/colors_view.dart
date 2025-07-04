@@ -31,7 +31,6 @@ class ColorsView extends StatelessWidget {
           return ListItem(
             item: colors[index],
             color: Colors.purple, // Replace with a theme color or constant
-            itemType: 'colors',
           );
         },
       ),

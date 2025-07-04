@@ -9,7 +9,6 @@ class ListItem extends StatelessWidget {
     super.key,
     required this.item,
     required this.color,
-    required String itemType,
   });
   final ItemModel item;
 
@@ -23,7 +22,9 @@ class ListItem extends StatelessWidget {
         children: [
           Container(
               color: const Color(0xffFFF6DC), child: Image.asset(item.image!)),
-          Expanded(child: ItemInfo(item: item)),
+          Expanded(
+            child: ItemInfo(item: item),
+          ),
         ],
       ),
     );
