@@ -10,7 +10,7 @@ class NumberViewBody extends StatelessWidget {
 
   final List<ItemModel> numbers = const [
     ItemModel(
-      sound: 'assets/Sounds/numbers_sounds/number_one_sound.mp3',
+      sound: 'number_one_sound.mp3',
       jpName: 'ichi',
       enName: 'one',
       image: 'assets/Numbers_Images/number_one.png',
@@ -58,13 +58,13 @@ class NumberViewBody extends StatelessWidget {
       image: 'assets/Numbers_Images/number_eight.png',
     ),
     ItemModel(
-      sound: 'sounds/numbers/number_one_sound.mp3',
+      sound: 'number_one_sound.mp3',
       jpName: 'Kyū',
       enName: 'nine',
       image: 'assets/Numbers_Images/number_nine.png',
     ),
     ItemModel(
-      sound: 'sounds/numbers/number_one_sound.mp3',
+      sound: 'number_one_sound.mp3',
       jpName: 'Jū',
       enName: 'ten',
       image: 'assets/Numbers_Images/number_ten.png',
