@@ -1,7 +1,7 @@
 import 'package:go_router/go_router.dart';
 import 'package:toku2_app/features/Colors/presentation/views/colors_view.dart';
 import 'package:toku2_app/features/Numbers/presentation/views/numbers_view.dart';
-import 'package:toku2_app/features/family/presentation/views/family_member_view.dart';
+import 'package:toku2_app/features/family/presentation/views/family_members_view.dart';
 import 'package:toku2_app/features/home/presentation/views/home_view.dart';
 import 'package:toku2_app/features/phrases/presentation/views/phrases_view.dart';
 
