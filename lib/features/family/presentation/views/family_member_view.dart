@@ -1,9 +1,11 @@
 import 'package:flutter/material.dart';
+import 'package:toku2_app/core/functions/build_app_bar.dart';
 import 'package:toku2_app/core/models/item_model.dart';
+import 'package:toku2_app/core/utils/colors_manager.dart';
 import 'package:toku2_app/core/widgets/list_item.dart';
 
-class FamilyMemberView extends StatelessWidget {
-  const FamilyMemberView({super.key});
+class FamilyMembersView extends StatelessWidget {
+  const FamilyMembersView({super.key});
 
   final List<ItemModel> numbers = const [
     ItemModel(
@@ -71,10 +73,8 @@ class FamilyMemberView extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return Scaffold(
-      appBar: AppBar(
-        title: const Text('Family Members'),
-        backgroundColor: const Color(0xff46322B),
-      ),
+      appBar: buildAppBar(context, title: 'Family Members'),
+      backgroundColor: ColorsManager.kGreenColor,
       body: ListView.builder(
         itemCount: numbers.length,
         itemBuilder: (context, index) {

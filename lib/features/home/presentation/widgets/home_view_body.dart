@@ -28,9 +28,9 @@ class HomeViewBody extends StatelessWidget {
                   text: 'Numbers',
                   color: ColorsManager.kOrangeColor,
                 ),
-                const GridViewItem(
-                  // onTap: () =>
-                  //     GoRouter.of(context).push(AppRouter.kFamilyMemberView),
+                GridViewItem(
+                  onTap: () =>
+                      GoRouter.of(context).push(AppRouter.kFamilyMemberView),
                   text: 'Family Members',
                   color: ColorsManager.kGreenColor,
                 ),

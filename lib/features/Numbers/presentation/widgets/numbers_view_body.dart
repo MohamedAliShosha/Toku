@@ -74,13 +74,13 @@ class NumberViewBody extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return Scaffold(
-      appBar: buildAppBar(context),
+      appBar: buildAppBar(context, title: 'Numbers'),
       body: ListView.builder(
         itemCount: numbers.length,
         itemBuilder: (context, index) {
           return ListItem(
             item: numbers[index],
-            color: ColorsManager.kBrownColor,
+            color: ColorsManager.kOrangeColor,
           );
         },
       ),

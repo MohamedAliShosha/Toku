@@ -23,7 +23,7 @@ abstract class AppRouter {
       GoRoute(
         path: kFamilyMemberView,
         builder: (context, state) {
-          return const FamilyMemberView();
+          return const FamilyMembersView();
         },
       ),
       GoRoute(
