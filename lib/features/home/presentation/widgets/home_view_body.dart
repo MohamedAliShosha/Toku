@@ -35,7 +35,8 @@ class HomeViewBody extends StatelessWidget {
                   text: 'Family Members',
                   color: ColorsManager.kGreenColor,
                 ),
-                const GridViewItem(
+                GridViewItem(
+                  onTap: () => GoRouter.of(context).push(AppRouter.kColorsView),
                   text: 'Colors',
                   color: ColorsManager.kPurpleColor,
                 ),
