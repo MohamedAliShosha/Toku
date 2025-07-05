@@ -3,8 +3,7 @@ import 'package:toku2_app/core/models/item_info.dart';
 import 'package:toku2_app/core/models/item_model.dart';
 
 class PhrasesItem extends StatelessWidget {
-  const PhrasesItem({Key? key, required this.item, required this.color})
-      : super(key: key);
+  const PhrasesItem({super.key, required this.item, required this.color});
 
   final ItemModel item;
   final Color color;

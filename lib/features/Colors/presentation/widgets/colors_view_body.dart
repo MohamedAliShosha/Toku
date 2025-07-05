@@ -42,7 +42,7 @@ class ColorsViewBody extends StatelessWidget {
     ),
     ItemModel(
       sound: 'sounds/colors/white.wav',
-      jpName: 'Shiro',
+      jpName: 'Shiroi',
       enName: 'white',
       image: 'assets/images/colors/color_white.png',
     ),

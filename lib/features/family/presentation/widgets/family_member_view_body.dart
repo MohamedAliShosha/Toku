@@ -20,13 +20,13 @@ class FamilyMembersViewBody extends StatelessWidget {
     ),
     ItemModel(
       sound: 'sounds/family_members/father.wav',
-      jpName: 'chichi',
+      jpName: 'Chichioya',
       enName: 'Father',
       image: 'assets/images/family_members/family_father.png',
     ),
     ItemModel(
       sound: 'sounds/family_members/mother.wav',
-      jpName: 'haha',
+      jpName: 'Hahaoya',
       enName: 'Mother',
       image: 'assets/images/family_members/family_mother.png',
     ),
@@ -38,7 +38,7 @@ class FamilyMembersViewBody extends StatelessWidget {
     ),
     ItemModel(
       sound: 'sounds/family_members/older bother.wav',
-      jpName: 'niichan',
+      jpName: 'nīsan',
       enName: 'Older Brother',
       image: 'assets/images/family_members/family_older_brother.png',
     ),
