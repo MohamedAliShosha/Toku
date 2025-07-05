@@ -12,6 +12,7 @@ AppBar buildAppBar(BuildContext context, {required String title}) {
       title,
       style: const TextStyle(
         color: ColorsManager.kPrimaryColor,
+        fontWeight: FontWeight.bold,
       ),
     ),
     backgroundColor: ColorsManager.kBrownColor,
