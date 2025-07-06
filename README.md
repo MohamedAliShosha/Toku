@@ -80,7 +80,6 @@ Examples:
 
 📱 **Frontend**  
 - Flutter 
-- GoRouter  
 
 🎨 **Design**  
 - Custom reusable widgets  
@@ -88,7 +87,8 @@ Examples:
 
 📦 **Dependencies** 
 - `audioplayers`  
-- `flutter_staggered_animations`   
+- `flutter_staggered_animations`
+- `go_router`   
 
 ---
 
