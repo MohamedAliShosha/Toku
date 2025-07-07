@@ -7,7 +7,7 @@ A modern Flutter app to help users learn basic Japanese vocabulary and expressio
 🔊 Audio pronunciation for immersive learning  
 
 <p align="center">
-  <img src="assets/Toku_Screen_Shots/all_views.jpg" alt="App Overview" width="800"/>
+  <img src="assets/Toku_Screen_Shots/All_Views.png" alt="App Overview" width="800"/>
 </p>
 
 ---
@@ -23,7 +23,7 @@ A categorized overview screen, offering access to:
 - Phrases
 
 <p align="center">
-  <img src="assets/Toku_Screen_Shots/home_view.jpg" alt="Home View" width="800"/>
+  <img src="assets/Toku_Screen_Shots/Toku_Home_View.png" alt="Home View" width="800"/>
 </p>
 
 ### 🔢 Numbers  
@@ -33,7 +33,7 @@ Examples:
 - *Ni* → "Two"  
 
 <p align="center">
-  <img src="assets/Toku_Screen_Shots/numbers_view.jpg" alt="Numbers View" width="800"/>
+  <img src="assets/Toku_Screen_Shots/Numbers_View.png" alt="Numbers View" width="800"/>
 </p>
 
 ---
@@ -46,7 +46,7 @@ Examples:
 - *Hokori-ppoi kiiro* → "Dusty Yellow"  
 
 <p align="center">
-  <img src="assets/Toku_Screen_Shots/colors_view.jpg" alt="Colors View" width="800"/>
+  <img src="assets/Toku_Screen_Shots/Colors_View.png" alt="Colors View" width="800"/>
 </p>
 
 ---
@@ -59,7 +59,7 @@ Examples:
 - *Ani* → "Older Brother"  
 
 <p align="center">
-  <img src="assets/Toku_Screen_Shots/family_members_view.jpg" alt="Family View" width="800"/>
+  <img src="assets/Toku_Screen_Shots/Family_Members_View.png" alt="Family View" width="800"/>
 </p>
 
 ---
@@ -71,7 +71,7 @@ Examples:
 - *Watashi wa anime ga daisukidesu* → "I love anime"  
 
 <p align="center">
-  <img src="assets/Toku_Screen_Shots/phrases_view.jpg" alt="Phrases View" width="800"/>
+  <img src="assets/Toku_Screen_Shots/phrases_view.png" alt="Phrases View" width="800"/>
 </p>
 
 ---
