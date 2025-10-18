@@ -1,6 +1,8 @@
 # 📱 Toku - Learn Japanese
 
-A modern Flutter app to help users learn basic Japanese vocabulary and expressions through categorized lessons:
+🌟 Overview
+
+- A modern language app to help users learn basic Japanese vocabulary and expressions through categorized lessons:
 
 ✨ Numbers, Colors, Family Members, and Common Phrases  
 🎌 Japanese-to-English translations  
@@ -12,85 +14,76 @@ A modern Flutter app to help users learn basic Japanese vocabulary and expressio
 
 ---
 
-## 🧩 Views & Features
+## 🎨 Views
+
+🏠 1. Home View:
+- Welcomes users to Toku, the Japanese learning app 🇯🇵.
+- Displays four main learning categories — Numbers 🔢, Family Members 👨‍👩‍👧, Colors 🎨, and Phrases 💬.
+- Each colorful tile leads to its dedicated section for focused learning.
+- Acts as the main navigation hub of the app.
 
 
-### 📚 Toku (Home View)  
-A categorized overview screen, offering access to:
-- Numbers
-- Colors
-- Family Members
-- Phrases
-
-<p align="center">
-  <img src="assets/Toku_Screen_Shots/Toku_Home_View.png" alt="Home View" width="800"/>
+<p align="left">
+  <img src="assets/Toku_Screen_Shots/home.png" alt="App Overview" height="800"/>
 </p>
 
-### 🔢 Numbers  
-This screen lists Japanese numbers with English translations.  
-Examples:  
-- *Ichi* → "One"  
-- *Ni* → "Two"  
+##
 
-<p align="center">
-  <img src="assets/Toku_Screen_Shots/Numbers_View.png" alt="Numbers View" width="800"/>
+🔢 2. Numbers View:
+- Introduces users to Japanese numbers through visuals and sound.
+- Each list item shows the Japanese word, English translation, and an illustrative image 🥜.
+- Includes an audio play button 🔊 to hear pronunciation.
+- Uses a warm orange theme to represent energy and focus.
+
+<p align="left">
+  <img src="assets/Toku_Screen_Shots/numbers.png" alt="App Overview" height="800"/>
 </p>
 
----
+##
 
-### 🎨 Colors  
-This view introduces colors in Japanese alongside their English counterparts.  
-Examples:  
-- *Burakku* → "Black"  
-- *Aka* → "Red"  
-- *Hokori-ppoi kiiro* → "Dusty Yellow"  
-
-<p align="center">
-  <img src="assets/Toku_Screen_Shots/Colors_View.png" alt="Colors View" width="800"/>
+👨‍👩‍👧 3. Family Members View:
+- Teaches Japanese vocabulary for family relationships.
+- Each list item displays a friendly avatar 👱‍♂️, Japanese term, and English equivalent.
+- Includes audio playback 🎧 for pronunciation practice.
+- The green theme symbolizes connection and family bonds.
+  
+<p align="left">
+  <img src="assets/Toku_Screen_Shots/family.png" alt="App Overview" height="800"/>
 </p>
 
----
+##
 
-### 👪 Family Members  
-Learn essential family-related vocabulary in Japanese.  
-Examples:  
-- *Ojiisan* → "Grand Father"  
-- *Hahaoya* → "Mother"  
-- *Ani* → "Older Brother"  
+🎨 4. Colors View:
+- Helps users learn Japanese color names in an interactive way.
+- Each item shows a color swatch, Japanese name, and English translation.
+- Tapping the audio icon 🔈 plays the correct pronunciation.
+ - The purple theme represents creativity and visual expression.
 
-<p align="center">
-  <img src="assets/Toku_Screen_Shots/Family_Members_View.png" alt="Family View" width="800"/>
+
+<p align="left">
+  <img src="assets/Toku_Screen_Shots/colors.png" alt="App Overview" height="800"/>
 </p>
 
----
+##
 
-### 💬 Phrases  
-Common Japanese phrases with English translations for daily conversations.  
-Examples:  
-- *Kimasu ka* → "Are you coming?"  
-- *Watashi wa anime ga daisukidesu* → "I love anime"  
+💬 5. Phrases View:
+- Provides users with useful Japanese phrases for everyday conversation.
+- Each tile shows a Japanese phrase, its English meaning, and a play icon ▶️ for listening practice.
+- Focuses on real-world dialogue and pronunciation improvement.
+- The blue theme creates a calm and clear learning experience.
 
-<p align="center">
-  <img src="assets/Toku_Screen_Shots/phrases_view.png" alt="Phrases View" width="800"/>
+
+<p align="left">
+  <img src="assets/Toku_Screen_Shots/phrases.png" alt="App Overview" height="800"/>
 </p>
 
----
 
 ## 🛠️ Tech Stack
 
 📱 **Frontend**  
 - Flutter 
 
-🎨 **Design**  
-- Custom reusable widgets  
-- Minimalist educational UI  
 
-📦 **Dependencies** 
-- `audioplayers`  
-- `flutter_staggered_animations`
-- `go_router`   
-
----
 
 ## 🏗️ Project Architecture
 
