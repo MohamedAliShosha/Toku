@@ -12,7 +12,6 @@
   <img src="assets/Toku_Screen_Shots/All_Views.png" alt="App Overview" width="800"/>
 </p>
 
----
 
 ## 🎨 Views
 
