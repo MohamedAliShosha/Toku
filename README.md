@@ -15,7 +15,7 @@
 
 ## 🎨 Views
 
-🏠 Home View:
+🏠 **Home View:**
 - Welcomes users to Toku, the Japanese learning app 🇯🇵.
 - Displays four main learning categories — Numbers 🔢, Family Members 👨‍👩‍👧, Colors 🎨, and Phrases 💬.
 - Each colorful tile leads to its dedicated section for focused learning.
@@ -28,7 +28,7 @@
 
 ##
 
-🔢 Numbers View:
+🔢 **Numbers View:**
 - Introduces users to Japanese numbers through visuals and sound.
 - Each list item shows the Japanese word, English translation, and an illustrative image 🥜.
 - Includes an audio play button 🔊 to hear pronunciation.
@@ -40,7 +40,7 @@
 
 ##
 
-👨‍👩‍👧 Family Members View:
+👨‍👩‍👧 **Family Members View:**
 - Teaches Japanese vocabulary for family relationships.
 - Each list item displays a friendly avatar 👱‍♂️, Japanese term, and English equivalent.
 - Includes audio playback 🎧 for pronunciation practice.
@@ -52,7 +52,7 @@
 
 ##
 
-🎨 Colors View:
+🎨 **Colors View:**
 - Helps users interactively learn Japanese color names.
 - Each item shows a color swatch, Japanese name, and English translation.
 - Tapping the audio icon 🔈 plays the correct pronunciation.
@@ -65,7 +65,7 @@
 
 ##
 
-💬 Phrases View:
+💬 **Phrases View:**
 - Provides users with useful Japanese phrases for everyday conversation.
 - Each tile shows a Japanese phrase, its English meaning, and a play icon ▶️ for listening practice.
 - Focuses on real-world dialogue and pronunciation improvement.
